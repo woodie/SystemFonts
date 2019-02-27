@@ -1,0 +1,7 @@
+MIDlet-1: SystemFonts, icon40x40.png, SystemFonts
+MIDlet-Name: System Fonts
+MIDlet-Vendor: Netpress.com
+MIDlet-Version: 0.1
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0
+MIDlet-Icon: icon40x40.png
